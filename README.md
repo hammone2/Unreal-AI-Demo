@@ -1,3 +1,4 @@
+- Press Q to switch weapons
 - Gold spheres increase speed
 - Silver spheres increase size & points
 - Blue spheres increase points
